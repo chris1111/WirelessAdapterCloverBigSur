@@ -29,6 +29,7 @@ The system is required to reboot after the driver is installed, so please close 
 
 #### Packages for macOS Hackintosh PC or Laptop
 - Credit: ➣ [Realtek](https://www.realtek.com/en/)
+- Credit: [Clover team](https://github.com/CloverHackyColor/CloverBootloader)
 
 
 #### Known Working and testing adapter 
@@ -437,8 +438,8 @@ The system is required to reboot after the driver is installed, so please close 
 
 - See my new video on macOS Big Sur
 ## Follow every steps in the Video ⬇︎
-[![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)]()
+[![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/RrC0XPun9XY)
 
 
 
-#### Download Release V1 [➤ Wireless USB Clover Big Sur Adapter-V1.pkg ]()
+#### Download Release V1 [➤ WirelessAdapterCloverBigSur-V1.pkg ](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V1)

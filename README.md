@@ -442,4 +442,4 @@ The system is required to reboot after the driver is installed, so please close 
 
 
 
-#### Download Release V1 [➤ WirelessAdapterCloverBigSur-V1.pkg ](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V1)
+#### Download Latest Release V2 [➤ WirelessAdapterCloverBigSur-V2.pkg ](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V2)

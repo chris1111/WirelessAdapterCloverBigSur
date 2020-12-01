@@ -14,6 +14,7 @@
  
 - To using any relase SIP Security must be disable
 
+### For OpenCore use this ➢ [Wireless-USB-OC-Big-Sur-Adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter) ※ ※ ※
 
 #### Issues: 
 - You must give a complete detailed information of your system and have the program Log on a .TXT file otherwise your isssue could be deleted.

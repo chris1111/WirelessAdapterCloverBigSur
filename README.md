@@ -49,6 +49,7 @@ The system is required to reboot after the driver is installed, so please close 
 - EDIMAX EW-7722UTn V2
 - EDIMAX_EW-7822ULC
 - EDIMAX EW-7612Uan V2
+- EDIMAX EW-7833UAC
 - EDIMAX N300
 - EDIMAX EW-7811Un (N150)
 - EDUP EP-AC1689

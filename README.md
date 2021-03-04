@@ -66,6 +66,7 @@ The system is required to reboot after the driver is installed, so please close 
 - TL-WN822Nv5
 - TRENDnet N150 Micro
 - TRENDnet TEW-908UB
+- ZAPO W58L (RTL881lAU)
 
 ## Support Drivers: (Adapter)
 <details> 

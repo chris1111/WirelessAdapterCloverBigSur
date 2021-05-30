@@ -38,6 +38,8 @@ The system is required to reboot after the driver is installed, so please close 
 
 
 #### Known Working and testing adapter 
+- Alfa AWUS036AC 
+- Alfa AWUS036ACH
 - Archer T2U NANO
 - Archer T3U
 - Archer T3U Plus

@@ -1,7 +1,7 @@
 # WirelessAdapterCloverBigSur
 
 ### Welcome to WirelessAdapterCloverBigSur
-### Support macOS Big Sur 11 - macOS Catalina 10.15
+### Support macOS Monterey 12 - macOS Big Sur 11 - macOS Catalina 10.15
 - For Hackintosh PC and Laptop only
 - SIP must be Disable
 

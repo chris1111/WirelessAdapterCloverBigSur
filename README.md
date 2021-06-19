@@ -66,6 +66,7 @@ The system is required to reboot after the driver is installed, so please close 
 - TL-WN722Nv3
 - TL-WN821Nv6
 - TL-WN822Nv5
+- TENDA W311-MINI
 - TRENDnet N150 Micro
 - TRENDnet TEW-908UB
 - ZAPO W58L (RTL881lAU)

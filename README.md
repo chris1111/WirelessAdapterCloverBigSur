@@ -3,18 +3,15 @@
 ### Welcome to WirelessAdapterCloverBigSur
 ### Support macOS Monterey 12 - macOS Big Sur 11 - macOS Catalina 10.15
 - For Hackintosh PC and Laptop only
-- SIP must be Disable
 
-
-## Work only SIP disable on any macOS Big Sur version
+### Work SIP disable on any macOS Big Sur version 
+### To using any relase SIP Security must be disable! (Fully disable) 
+- csrutil disable csrutil authenticated-root disable
 
  - Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 ![Capture d’écran, Light](https://user-images.githubusercontent.com/6248794/100558078-c7896000-327a-11eb-9f28-d81df4c79e24.png)
 ![Capture d’écran, dark](https://user-images.githubusercontent.com/6248794/100558082-cb1ce700-327a-11eb-9a53-9c505b2432c2.png)
  
-### Work SIP disable on any macOS Big Sur version 
-### To using any relase SIP Security must be disable! (Fully disable) 
-- csrutil disable csrutil authenticated-root disable
 
 ### For OpenCore use this ➢ [Wireless-USB-OC-Big-Sur-Adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter) ※ ※ ※
 

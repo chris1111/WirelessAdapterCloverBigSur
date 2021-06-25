@@ -48,6 +48,7 @@ The system is required to reboot after the driver is installed, so please close 
 - ASUS USB AC68
 - ASUS USB-N13
 - COMFAST CF-811AC
+- COMFAST CF-812AC
 - Cudy WU1300S
 - EDIMAX EW-7722UTn V2
 - EDIMAX_EW-7822ULC

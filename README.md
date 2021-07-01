@@ -38,7 +38,7 @@ The system is required to reboot after the driver is installed, so please close 
 
 #### Known Working and testing adapter 
 - Alfa AWUS036AC 
-- Alfa AWUS036ACH ☞ [Special Program here](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/issues/119#issuecomment-871799157)
+- Alfa AWUS036ACH 
 - Archer T2U NANO, MINI, AC600
 - Archer T3U
 - Archer T3U Plus

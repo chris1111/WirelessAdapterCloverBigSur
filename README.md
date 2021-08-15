@@ -462,8 +462,8 @@ The system is required to reboot after the driver is installed, so please close 
 [![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/X9CgbheW4_g)
 
 
-- ## See new fonction SIP Checker 
-[![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/Umj6-vsEsoU)
+- ## See Video if SIP is not disable ⬇︎
+- [![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/Umj6-vsEsoU)
 
 
 #### Download Latest Release V7 [➤ WirelessAdapterCloverBigSur-V7.pkg ](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V7)

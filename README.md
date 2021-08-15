@@ -9,7 +9,7 @@
 - csrutil disable
 - ( 🚫  It does not work on Mediatek adapters)
 
-### Latest Latest Update 30 july 2021 . Drivers and Utility
+### Latest Latest Update 14 august 2021 . Check SIP status
 
 - Update 26 july 2021 . Check box Auto start
 - Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
@@ -463,7 +463,7 @@ The system is required to reboot after the driver is installed, so please close 
 
 
 
-#### Download Latest Release V6 [➤ WirelessAdapterCloverBigSur-V6.pkg ](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V6)
+#### Download Latest Release V7 [➤ WirelessAdapterCloverBigSur-V7.pkg ](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V7)
 
 - [StatusBar IconSet replacement.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/6754500/StatusBar.IconSet.zip)
 

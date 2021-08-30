@@ -42,8 +42,7 @@ The system is required to reboot after the driver is installed, so please close 
 
 #### Known Working and testing adapter 
 - Alfa AWUS036AC 
-- Alfa AWUS036ACH 
-- Archer T2U NANO, MINI, AC600
+- Alfa AWUS036ACH
 - Archer T3U
 - Archer T3U Plus
 - Archer T2U MINI V3
@@ -58,22 +57,21 @@ The system is required to reboot after the driver is installed, so please close 
 - EDIMAX EW-7611UCB
 - EDIMAX EW-7722UTn V2
 - EDIMAX_EW-7822ULC
-- EDIMAX EW-7612Uan V2
 - EDIMAX EW-7833UAC
+- EDIMAX EW-7612Uan V2
 - EDIMAX N300
 - EDIMAX EW-7811Un (N150)
 - EDUP EP-AC1689
-- Linksys WUSB6300
+- Linksys WUSB6300 V2
 - Linksys WUSB6400M
 - Netgear A7000
 - Sitecom WLA7100
-- TL-WN823Nv3
-- TL-WN823Nv2
+- TL-WN823Nv2/v3
 - TL-WN725Nv3
 - TL-WN723Nv3
 - TL-WN722Nv3
 - TL-WN821Nv6
-- TL-WN822Nv5
+- TL-WN822Nv4/v5
 - TENDA W311-MINI
 - TRENDnet N150 Micro
 - TRENDnet TEW-908UB

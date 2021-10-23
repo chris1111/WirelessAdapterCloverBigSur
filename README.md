@@ -76,6 +76,7 @@ The system is required to reboot after the driver is installed, so please close 
 - TL-WN822Nv5
 - TENDA W311-MINI
 - TRENDnet N150 Micro
+- TRENDnet TEW-808UBM
 - TRENDnet TEW-908UB
 - ZAPO W58L (RTL881lAU)
 - If you have a non listing working adapter please report it here ☞ [Report working adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions)

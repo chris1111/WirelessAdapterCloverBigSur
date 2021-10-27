@@ -46,7 +46,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Archer T3U
 - Archer T3U Plus
 - Archer T2U MINI V3
-- ArcherT4U V3
+- ArcherT4U V1, V2, V3
 - Archer T9UH V2
 - ASUS USB AC68
 - ASUS USB-N13

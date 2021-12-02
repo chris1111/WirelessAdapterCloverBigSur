@@ -54,6 +54,7 @@ The system is required to reboot after the driver is installed, so please close 
 - COMFAST CF-812AC
 - Cudy WU1300S
 - Cudy WU700
+- DLink DWA-121 N150
 - EDIMAX EW-7611UCB
 - EDIMAX EW-7722UTn V2
 - EDIMAX_EW-7822ULC

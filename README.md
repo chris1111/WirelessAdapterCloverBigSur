@@ -67,6 +67,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Linksys WUSB6300 V2
 - Linksys WUSB6400M
 - Netgear A7000
+- Plexgear AC1200
 - Sitecom WLA7100
 - TL-WN823Nv2/v3
 - TL-WN725Nv3

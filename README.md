@@ -470,7 +470,7 @@ The system is required to reboot after the driver is installed, so please close 
 - [![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/Umj6-vsEsoU)
 
 
-#### Download Latest Release V8 [➤ WirelessAdapterCloverBigSur-V8](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V8)
+#### Download Latest Release V9 [➤ WirelessAdapterCloverBigSur-V9](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V9)
 
 - [StatusBar IconSet replacement.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/6754500/StatusBar.IconSet.zip)
 

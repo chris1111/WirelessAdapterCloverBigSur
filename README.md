@@ -9,7 +9,8 @@
 - csrutil disable
 - ( 🚫  It does not work on Mediatek adapters)
 
-### Latest Update 15 Sept 2021 Release V8 adapt for latest macOS Big Sur 11
+### Latest Update 14 Dec 2021 support page.html inside the program.
+- Update 15 Sept 2021 Release V8 adapt for latest macOS Big Sur 11
 - Update 14 august 2021 . Check SIP status
 - Update 26 july 2021 . Check box Auto start
 - Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur

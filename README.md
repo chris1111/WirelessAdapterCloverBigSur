@@ -9,6 +9,8 @@
 - csrutil disable
 - ( 🚫  It does not work on Mediatek adapters)
 
+## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/WirelessAdapterCloverBigSur/discussions/5)
+
 ### Latest Update 14 Dec 2021 support page.html inside the program.
 - Update 15 Sept 2021 Release V8 adapt for latest macOS Big Sur 11
 - Update 14 august 2021 . Check SIP status

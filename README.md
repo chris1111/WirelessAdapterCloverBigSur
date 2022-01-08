@@ -29,6 +29,7 @@ Update 15 Sept 2021 Release V8 adapt for latest macOS Big Sur 11
 Update 15 august 2021 . Check SIP status
 	
 ![SIP Status](https://user-images.githubusercontent.com/6248794/139541856-6eca3646-50a8-4a2f-9808-1d77f68dd423.png)
+	
 Update 26 july 2021 . Check box Auto start
 	
 Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur

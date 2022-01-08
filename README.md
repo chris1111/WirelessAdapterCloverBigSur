@@ -63,7 +63,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Credit: [Clover team](https://github.com/CloverHackyColor/CloverBootloader)
 
 
-#### Known Working and testing adapter 
+#### ⬇︎ :  Known Working and testing adapter
 - Alfa AWUS036AC 
 - Alfa AWUS036ACH
 - Archer T3U

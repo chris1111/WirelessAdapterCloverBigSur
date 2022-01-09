@@ -494,7 +494,7 @@ The system is required to reboot after the driver is installed, so please close 
 
 #### Download Latest Release V9 [➤ WirelessAdapterCloverBigSur-V9](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V9)
 
-- [StatusBar IconSet replacement.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/6754500/StatusBar.IconSet.zip)
+- [StatusBar IconSet replacement.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/7834243/StatusBar.IconSet.zip)
 
 - Download ➤ [WIFI Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/6895432/WIFI.Speed.Test.zip)
 

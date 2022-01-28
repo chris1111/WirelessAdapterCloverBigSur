@@ -11,10 +11,13 @@
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/WirelessAdapterCloverBigSur/discussions/5)
 
-### Latest Update 08 Jan 2022 Open StatusBarApp before reboot
+### Latest Update 28 Jan 2022 Change background Package
+
 ## List Update: ⬇︎
 <details> 
   <summary>View list Update</summary>
+
+Update 08 Jan 2022 Open StatusBarApp before reboot
 
 Update 31 Dec 2021 remove spam uninstall script
 	

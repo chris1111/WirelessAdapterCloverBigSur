@@ -76,6 +76,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Archer T9UH V2
 - ASUS USB AC68
 - ASUS USB-N13
+- ASUS USB Nano-AC53
 - COMFAST CF-811AC
 - COMFAST CF-812AC
 - Cudy WU1300S

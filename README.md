@@ -82,6 +82,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Cudy WU1300S
 - Cudy WU700
 - DLink DWA-121 N150
+- D-Link DWA-131
 - EDIMAX EW-7611UCB
 - EDIMAX EW-7722UTn V2
 - EDIMAX_EW-7822ULC

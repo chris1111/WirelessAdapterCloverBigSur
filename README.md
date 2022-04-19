@@ -79,6 +79,7 @@ The system is required to reboot after the driver is installed, so please close 
 - ASUS USB Nano-AC53
 - COMFAST CF-811AC
 - COMFAST CF-812AC
+- Comfast CF-WU810N
 - Cudy WU1300S
 - Cudy WU700
 - DLink DWA-121 N150

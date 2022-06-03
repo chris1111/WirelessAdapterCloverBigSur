@@ -7,7 +7,8 @@
 ### Work SIP disable on any macOS Big Sur version 
 ### To using any relase SIP Security must be disable! (Fully disable) 
 - csrutil disable
-- ( 🚫  It does not work on Mediatek adapters)
+- ( 🚫  It does not work on [Mediatek](https://github.com/chris1111/D-LinkUtility-Package) adapters)
+
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/WirelessAdapterCloverBigSur/discussions/5)
 

@@ -96,6 +96,7 @@ The system is required to reboot after the driver is installed, so please close 
 - EDIMAX EW-7811Un (N150)
 - EDUP EP-AC1689
 - Fenvi AC1300 (RTL8812bu)
+- FILOWA USB WiFi-RTL8812BU
 - Jensen Eagle 100-AC
 - Linksys WUSB6300 V2
 - Linksys WUSB6400M
@@ -410,6 +411,8 @@ The system is required to reboot after the driver is installed, so please close 
 - RTL8811AU
 
 - RTL8812AU
+
+- RTL8812BU
 
 - RTL8812AU-VL
 

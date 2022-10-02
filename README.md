@@ -100,6 +100,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Fenvi AC1300 (RTL8812bu)
 - FILOWA USB WiFi-RTL8812BU
 - Jensen Eagle 100-AC
+- Kextech MINI USB RTL8192
 - Linksys WUSB6300 V2
 - Linksys WUSB6400M
 - Netgear A7000

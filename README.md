@@ -103,6 +103,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Kextech MINI USB RTL8192
 - Linksys WUSB6300 V2
 - Linksys WUSB6400M
+- Netgear A6100
 - Netgear A7000
 - Netis WF2120 N Nano USB
 - Plexgear AC1200

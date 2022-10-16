@@ -5,6 +5,8 @@
 - For Hackintosh PC and Laptop only
 - There is no source for this project, All wifi companies have abandoned it as well as Realtek the main builder.
 
+### Download Latest Release V10 [➤ WirelessAdapterCloverBigSur-V10](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V10)
+
 ### Work SIP disable on any macOS Big Sur version 
 ### To using any relase SIP Security must be disable! (Fully disable) 
 - csrutil disable
@@ -511,12 +513,8 @@ The system is required to reboot after the driver is installed, so please close 
 - [![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/Umj6-vsEsoU)
 
 
-#### Download Latest Release V10 [➤ WirelessAdapterCloverBigSur-V10](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V10)
+- WIFI Speed Test Download ➤ [Catalina WIFI Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/6895432/WIFI.Speed.Test.zip)
 
-- [StatusBar IconSet replacement.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/7834243/StatusBar.IconSet.zip)
-
-- Download ➤ [WIFI Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/6895432/WIFI.Speed.Test.zip)
+- WIFI Speed Test Download ➤  [Monterey WIFI Network Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/8351329/Monterey.WIFI.Network.Speed.Test.zip) You need /usr/local/bin/python3 Installed
 
 ![Screen Shot ](https://user-images.githubusercontent.com/6248794/124283398-db9b8580-db19-11eb-87db-56251f29a5a5.png)
-
-- Download ➤  [Monterey WIFI Network Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/8351329/Monterey.WIFI.Network.Speed.Test.zip) You need /usr/local/bin/python3 Installed

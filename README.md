@@ -15,7 +15,6 @@
 - csrutil disable
 - ( 🚫  It does not work on [Mediatek](https://github.com/chris1111/D-LinkUtility-Package) adapters)
 
-
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/WirelessAdapterCloverBigSur/discussions/5)
 
 ### Latest Update 15 Dec 2022 Moove Helper

@@ -1,22 +1,28 @@
-# Wireless-Adapter-Clover-BigSur
+---
+layout: default
+---
 
-### Welcome to Wireless-Adapter-Clover-BigSur
+# Wireless-USB-OC-Big-Sur-Adapter 
 
 ### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
 
-#### Support macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11 - macOS Catalina 10.15
+### Welcome to Wireless USB OC Big Sur Adapter
+### Support macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11 - macOS Catalina 10.15
 - For Hackintosh PC and Laptop only
 - There is no source for this project, All wifi companies have abandoned it as well as Realtek the main builder.
-
-### Download Latest Release V13 [➤ WirelessAdapterCloverBigSur-V12](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V13)
 
 ### Work SIP disable on any macOS Big Sur version 
 ### To using any relase SIP Security must be disable! (Fully disable) 
 - csrutil disable
+
 - ( 🚫  It does not work on [Mediatek](https://github.com/chris1111/D-LinkUtility-Package) adapters)
 
+### Important Note: Since some Beta you need to disable the SecureBootModel in / Misc / Security ➤ See image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
-## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/WirelessAdapterCloverBigSur/discussions/5)
+## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions/167)
+
+### Download latest Release V16 [➤ Wireless USB OC Big Sur Adapter-V15](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V16)
+
 
 ### Latest Update 15 Dec 2022 Moove Helper
 
@@ -25,63 +31,50 @@
 <details> 
   <summary>View list Update</summary>
   
-Update 13 Dec 2022 Fix Uninstall Utility
+Update 13 Dec 2022 Fix Uninstall Utility  
   
 Update 02 Nov 2022 No more need Agents and Deamon  
   
-Update 19 June 2022 Support macOS Ventura 13
+Update 12 june 2022 Support macOS Ventura 13
 
-Update 28 Jan 2022 Change background Package
-	
 Update 08 Jan 2022 Open StatusBarApp before reboot
-
+	
 Update 31 Dec 2021 remove spam uninstall script
-	
+
 Update 14 Dec 2021 support page.html inside the program, StatusBarApp open after reboot
-	
+
 Update 11 Dec 2021 support page.html
-	
+
 Update 30 Oct 2021 strip and sign nib with Xcode
-	
+
 Update 15 Sept 2021 Release V8 adapt for latest macOS Big Sur 11
-	
+
 Update 15 august 2021 . Check SIP status
-	
+
 ![SIP Status](https://user-images.githubusercontent.com/6248794/139541856-6eca3646-50a8-4a2f-9808-1d77f68dd423.png)
-	
+
 Update 26 july 2021 . Check box Auto start
-	
+
 Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
-	
+
 ![Capture d’écran, Light](https://user-images.githubusercontent.com/6248794/100558078-c7896000-327a-11eb-9f28-d81df4c79e24.png)
 ![Capture d’écran, dark](https://user-images.githubusercontent.com/6248794/100558082-cb1ce700-327a-11eb-9a53-9c505b2432c2.png)
 
 </details>
- 
 
-### For OpenCore use this ➢ [Wireless-USB-OC-Big-Sur-Adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter) ※ ※ ※
+### For Clover use this ➢[WirelessAdapterCloverBigSur](https://github.com/chris1111/WirelessAdapterCloverBigSur) ※ ※ ※
 
 #### Issues: 
 - You must give a complete detailed information of your system and have the program Log on a .TXT file otherwise your isssue could be deleted.
 
 
-This driver runs from macOS Big Sur 11
-- Configure the settings.
-The system is required to reboot after the driver is installed, so please close all the other applications before installing this software. After the system boots up and you enter the system, please follow the following steps to configure the network:
-
-- Instructions: 
-    - 1. Connect to the WLAN from the status bar Icons.
-    - 2. Select the "System Preference" from the system menu.
-    - 3. Select and launch the "Network" item in the "System Preference" folder.
-    - 4. From the "Configure" list, select the correct adapter and configure it.
-
-
 #### Packages for macOS Hackintosh PC or Laptop
 - Credit: ➣ [Realtek](https://www.realtek.com/en/)
-- Credit: [Clover team](https://github.com/CloverHackyColor/CloverBootloader)
+- Credit: ➣ [Acidanthera / OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
 
 #### ⬇︎ :  Known Working and testing adapter
+- Acer UWA5
 - Alfa AWUS036AC 
 - Alfa AWUS036ACH
 - Archer T2U Nano
@@ -95,8 +88,8 @@ The system is required to reboot after the driver is installed, so please close 
 - ASUS USB Nano-AC53
 - COMFAST CF-811AC
 - COMFAST CF-812AC
-- Comfast CF-758F
 - Comfast CF-WU810N
+- Comfast CF-758F
 - Cudy WU1300S
 - Cudy WU700
 - DLink DWA-121 N150
@@ -111,20 +104,21 @@ The system is required to reboot after the driver is installed, so please close 
 - EDUP EP-AC1689
 - Fenvi AC1300 (RTL8812bu)
 - FILOWA USB WiFi-RTL8812BU
+- Foktech AC600 Nano
 - Jensen Eagle 100-AC
 - Kextech MINI USB RTL8192
 - Linksys WUSB6300 V2
 - Linksys WUSB6400M
-- M-Tech UW-01 USB
 - Netgear A6100
 - Netgear A7000
 - Netis WF2120 N Nano USB
+- M-Tech UW-01 USB
 - Plexgear AC1200
 - Sitecom WLA7100
 - TL-WN823Nv2/v3
 - TL-WN725Nv3
-- TL-WN723Nv3
-- TL-WN722Nv3/v2
+- TL-WN723Nv2/v3
+- TL-WN722Nv2/v3
 - TL-WN821Nv6
 - TL-WN822Nv4/v5
 - TENDA W311-MINI
@@ -135,7 +129,6 @@ The system is required to reboot after the driver is installed, so please close 
 - YUNCLOUD Realtek (RTL8814AU)
 - ZAPO W58L (RTL881lAU)
 - If you have a non listing working adapter please report it here ☞ [Report working adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions)
-
 
 ## Support Drivers: (Adapter)
 <details> 
@@ -515,17 +508,26 @@ The system is required to reboot after the driver is installed, so please close 
 ### NOTE: this program is not responsible for any damage or machine that does not boot anymore.
 
 
-- See my new video on macOS Monterey 12 ⬇︎ See new fonction SIP Checker
-- ## Follow every steps in the Video ⬇︎
-[![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/X9CgbheW4_g)
+- See my video on macOS Monterey 12
+## Follow every steps in the Video ⬇︎
+[![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/roQOmCq0UZw)
+
+## See Video if SIP is not disable ⬇︎
+[![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/ct0-joP-PVY)
+
+This driver runs from macOS Big Sur 11
+The system is required to reboot after the driver is installed, so please close all the other applications before installing this software. After the system boots up and you enter the system, please follow the following steps to configure the network:
+
+- Instructions:
+    - 1. Connect to the WLAN from the status bar Icons.
+    - 2. Select the "System Preference" from the system menu.
+    - 3. Select and launch the "Network" item in the "System Preference" folder.
+    - 4. From the "Configure" list, select the correct adapter and configure it.
+    - 5. Configure the settings.
 
 
-- ## See Video if SIP is not disable ⬇︎
-- [![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/Umj6-vsEsoU)
+- WIFI Speed Test  Download ➤ [Big Sur / Catalina WIFI Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/6895432/WIFI.Speed.Test.zip)
 
-
-- WIFI Speed Test Download ➤ [Big Sur / Catalina WIFI Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/6895432/WIFI.Speed.Test.zip)
-
-- WIFI Speed Test Download ➤  [Monterey WIFI Network Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/8351329/Monterey.WIFI.Network.Speed.Test.zip) You need /usr/local/bin/python3 Installed
+- WIFI Speed Test  Download ➤  [Monterey WIFI Network Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/8351329/Monterey.WIFI.Network.Speed.Test.zip) You need /usr/local/bin/python3 Installed
 
 ![Screen Shot ](https://user-images.githubusercontent.com/6248794/124283398-db9b8580-db19-11eb-87db-56251f29a5a5.png)

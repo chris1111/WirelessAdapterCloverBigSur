@@ -98,7 +98,7 @@ layout: default
 - ZAPO W58L (RTL881lAU)
 - If you have a non listing working adapter please report it here ☞ [Report working adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions)
 
-## Support Drivers: (Adapter)
+## Drivers: (Adapter) ⬇︎
 
 ## View all adapter ➤ [Adapter List](https://github.com/chris1111/WirelessAdapterCloverBigSur/blob/main/support.md)
 

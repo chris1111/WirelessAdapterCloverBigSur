@@ -99,7 +99,6 @@ layout: default
 - If you have a non listing working adapter please report it here ☞ [Report working adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions)
 
 ## Drivers: (Adapter) ⬇︎
-
 ## View all adapter ➤ [Adapter List](https://github.com/chris1111/WirelessAdapterCloverBigSur/blob/main/support.md)
 
 ### NOTE: this program is not responsible for any damage or machine that does not boot anymore.

@@ -8,7 +8,7 @@
 - For Hackintosh PC and Laptop only
 - There is no source for this project, All wifi companies have abandoned it as well as Realtek the main builder.
 
-### Download Latest Release V13 [➤ WirelessAdapterCloverBigSur-V12](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V13)
+### Download Latest Release V13 [➤ WirelessAdapterCloverBigSur-V13](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V13)
 
 ### Work SIP disable on any macOS Big Sur version 
 ### To using any relase SIP Security must be disable! (Fully disable) 

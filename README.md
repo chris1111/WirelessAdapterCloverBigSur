@@ -128,6 +128,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Netis WF2120 N Nano USB
 - Plexgear AC1200
 - Sitecom WLA7100
+- TechKey AC1200
 - TL-WN823Nv2/v3
 - TL-WN725Nv3
 - TL-WN723Nv3

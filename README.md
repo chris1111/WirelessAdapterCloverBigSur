@@ -122,6 +122,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Linksys WUSB6300 V2
 - Linksys WUSB6400M
 - M-Tech UW-01 USB
+- Mercusys MW300UM
 - Netgear A6100
 - Netgear A6150
 - Netgear A7000

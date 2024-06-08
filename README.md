@@ -535,6 +535,16 @@ The system is required to reboot after the driver is installed, so please close 
 - ## See Video if SIP is not disable ⬇︎
 - [![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/Umj6-vsEsoU)
 
+This driver runs from macOS Catalina to macOS Sonoma
+The system is required to reboot after the driver is installed, so please close all the other applications before installing this software. After the system boots up and you enter the system, please follow the following steps to configure the network:
+
+- Instructions:
+    - 1. Connect to the WLAN from the status bar Icons.
+    - 2. Select the "System Preference" from the system menu.
+    - 3. Select and launch the "Network" item in the "System Preference" folder.
+    - 4. From the "Configure" list, select the correct adapter and configure it.
+    - 5. Configure the settings.
+    
 - Wifi speed test
 - Since Monterey you can Run the command `networkquality`
   

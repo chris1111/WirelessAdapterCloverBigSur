@@ -21,7 +21,7 @@ layout: default
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/WirelessAdapterCloverBigSur/discussions/5)
 
-Latest Update 11 Jul 2024 Change Background
+### Latest Update 11 Jul 2024 Update StatusBarApp, change background Package
 
 ## View all update ➤ [Update](https://github.com/chris1111/WirelessAdapterCloverBigSur/blob/main/update.md)
 

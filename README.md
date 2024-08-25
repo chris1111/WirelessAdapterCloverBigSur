@@ -11,6 +11,7 @@
 
 ### Download Latest Release V14 [➤ WirelessAdapterCloverBigSur-V14](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V14)
 
+### macOS Sequoia 15 ➤ [Disable-Gatekeeper](https://github.com/chris1111/Disable-Gatekeeper)
 ### Work SIP disable on any macOS Big Sur version 
 ### To using any relase SIP Security must be disable! (Fully disable) 
 - csrutil disable

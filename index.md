@@ -12,6 +12,7 @@ layout: default
 - For Hackintosh PC and Laptop only
 - There is no source for this project, All wifi companies have abandoned it as well as Realtek the main builder.
 
+### macOS Sequoia 15! You have to ➤ [Disable-Gatekeeper](https://github.com/chris1111/Disable-Gatekeeper)
 ### Download Latest Release V14 [➤ WirelessAdapterCloverBigSur-V14](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/tag/V14)
 
 ### Work SIP disable on any macOS Big Sur version 

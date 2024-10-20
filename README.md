@@ -19,7 +19,7 @@
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/WirelessAdapterCloverBigSur/discussions/5)
 
-### Latest Update 12 Jul 2024 Use my background Package
+### Latest Update 19 Oct 2024 We use the same wifi icons for Catalina
 
 ## List Update: ⬇︎
 <details> 

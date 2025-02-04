@@ -145,7 +145,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Plexgear AC1200
 - Sitecom WLA7100
 - TechKey AC1200
-- TL-WN823Nv1/v2/v3
+- TL-WN823Nv1/v2/v3/v4
 - TL-WN725Nv3
 - TL-WN723Nv3
 - TL-WN722Nv3/v2

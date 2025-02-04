@@ -79,13 +79,15 @@ layout: default
 - Linksys WUSB6300 V2
 - Linksys WUSB6400M
 - M-Tech UW-01 USB
+- Mercusys MW300UM
 - Netgear A6100
 - Netgear A6150
 - Netgear A7000
 - Netis WF2120 N Nano USB
 - Plexgear AC1200
 - Sitecom WLA7100
-- TL-WN823Nv2/v3
+- TechKey AC1200
+- TL-WN823Nv1/v2/v3/v4
 - TL-WN725Nv3
 - TL-WN723Nv3
 - TL-WN722Nv3/v2
@@ -96,8 +98,11 @@ layout: default
 - TRENDnet N150 Micro
 - TRENDnet TEW-808UBM
 - TRENDnet TEW-908UB
+- UGreen CM448
 - YUNCLOUD Realtek (RTL8814AU)
 - ZAPO W58L (RTL881lAU)
+- Zyxel NWD6602
+- Zyxel NWD6605
 - If you have a non listing working adapter please report it here ☞ [Report working adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions)
 
 ## Drivers: (Adapter) ⬇︎

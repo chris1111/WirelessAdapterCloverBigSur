@@ -4,6 +4,8 @@ layout: default
 
 # Wireless-Adapter-Clover-BigSur
 
+[![pages-build-deployment](https://github.com/chris1111/WirelessAdapterCloverBigSur/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/chris1111/WirelessAdapterCloverBigSur/actions/workflows/pages/pages-build-deployment)
+
 ### Welcome to Wireless-Adapter-Clover-BigSur
 
 ### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 

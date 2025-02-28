@@ -19,6 +19,8 @@
 - csrutil disable
 - ( 🚫  It does not work on [Mediatek](https://github.com/chris1111/D-LinkUtility-Package) adapters)
 
+## It seems that it does not work on Mac M1, M2, M3, M4 Apple chip, working only for Mac Intel.
+
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/WirelessAdapterCloverBigSur/discussions/5)
 
 ### Latest Update 19 Oct 2024 We use the same wifi icons for Catalina

@@ -105,7 +105,8 @@ The system is required to reboot after the driver is installed, so please close 
 
 #### Packages for macOS Hackintosh PC or Laptop
 - Credit: ➣ [Realtek](https://www.realtek.com/en/)
-- Credit: [Clover team](https://github.com/CloverHackyColor/CloverBootloader)
+- Credit: ➣ [Clover Team](https://github.com/CloverHackyColor/CloverBootloader)
+- Credit: ➣ [OCLP-Mod](https://github.com/laobamac/OCLP-Mod)
 
 
 #### ⬇︎ :  Known Working and testing adapter

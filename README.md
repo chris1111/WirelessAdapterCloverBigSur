@@ -5,6 +5,7 @@
 [![pages-build-deployment](https://github.com/chris1111/WirelessAdapterCloverBigSur/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/chris1111/WirelessAdapterCloverBigSur/actions/workflows/pages/pages-build-deployment)
 
 ### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
+- ( 🚫  It does not work on [Mediatek](https://github.com/chris1111/D-LinkUtility-Package) adapters)
 
 ### Support [macOS Tahoe 26 ➤ Usage](https://github.com/chris1111/WirelessAdapterCloverBigSur/blob/main/Usage-macOS-Tahoe.md) - macOS Sequoia 15 - macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11, macOS Catalina, macOS Mojave 10.14.6 Only! (DO NOT USE ON OTHER OS's)
 - For Hackintosh PC and Laptop only
@@ -17,7 +18,6 @@
 ### Work SIP disable on any macOS Big Sur version 
 ### To using any relase SIP Security must be disable! (Fully disable) 
 - csrutil disable
-- ( 🚫  It does not work on [Mediatek](https://github.com/chris1111/D-LinkUtility-Package) adapters)
 
 ## It seems that it does not work on Mac M1, M2, M3, M4 Apple chip, working only for Mac Intel.
 

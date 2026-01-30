@@ -31,7 +31,7 @@ Success ⬇︎
 
 ![Screenshot Tahoe](https://github.com/user-attachments/assets/3d6ca0c5-1f15-4e9c-8f08-5139a6fc8815)
 
-#### Bonus Download ➤ [Wifi-Icons-Changer.zip](https://github.com/user-attachments/files/22987979/Wifi-Icons-Changer.zip)
+#### Bonus Download ➤ [Wifi-Icons-Changer.zip](https://github.com/chris1111/WirelessAdapterCloverBigSur/releases/download/V14/Wifi-Icons-Changer.zip)
 
 
 Default Blue

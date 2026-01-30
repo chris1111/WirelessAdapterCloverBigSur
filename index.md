@@ -26,7 +26,7 @@ layout: default
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/WirelessAdapterCloverBigSur/discussions/5)
 
-### Latest Update 18 Oct 2025 Update Wifi Icons
+### Latest Update 10 Jan 2026 Update Program Icons
 
 ## View all update ➤ [Update](https://github.com/chris1111/WirelessAdapterCloverBigSur/blob/main/update.md)
 

@@ -155,6 +155,7 @@ The system is required to reboot after the driver is installed, so please close 
 - Linksys WUSB6300 V2
 - Linksys WUSB6400M
 - M-Tech UW-01 USB
+- MAYMII·HOME [RTL8811CU](https://www.amazon.ca/Wireless-Adapter-600Mbps-Realtek-RTL8811CU/dp/B0C4KJNJZ2)
 - Mercusys MW300UM
 - Netgear A6100
 - Netgear A6150
